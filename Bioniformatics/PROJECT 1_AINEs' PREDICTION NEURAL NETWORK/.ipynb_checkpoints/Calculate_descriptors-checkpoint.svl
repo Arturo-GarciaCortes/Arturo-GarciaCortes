@@ -1,0 +1,18 @@
+function calc_descriptors(molecule_file, output_file)
+    local mol, descriptors, db;
+
+    // Load the molecule from a file
+    mol := MOE_ReadMolecule[molecule_file];
+
+    // List of desired descriptors
+    descriptors := ['A_HYD', 'E', 'REACT', 'A_IC', 'E_RVDW'];
+
+    // Calculate descriptors
+    db := MOE_Descriptors[mol, descriptors];
+
+    // Save descriptors to a CSV file
+    MOE_WriteCSV[output_file, db, ','];
+
+    // Return success
+    return 0;
+endfunction
