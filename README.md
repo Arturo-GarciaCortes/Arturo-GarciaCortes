@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturo-garciacortes&label=Profile%20views&color=0e75b6&style=flat" alt="arturo-garciacortes" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning Specialization**
+- 🌱 I’m currently pursuing a **Machine Learning Specialization**
 
 - 👨‍💻 All of my projects are available at [portfolio_link](portfolio_link)
 
 - 📫 How to reach me **garciacortesjosearturo@gmail.com**
 
-- Look at the extent of my background and achievements. [https://drive.google.com/file/d/1Hm4Fg_1grC96pi6G4Ot8dS4qqx5fIJsX/view?usp=sharing](https://drive.google.com/file/d/1Hm4Fg_1grC96pi6G4Ot8dS4qqx5fIJsX/view?usp=sharing)
+- Look at the extent of my background and achievements. [Resume](https://drive.google.com/file/d/1Hm4Fg_1grC96pi6G4Ot8dS4qqx5fIJsX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
