@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Arturo Garcia 👋</h1>
-<h3 align="center">I am a highly motivated Nanotechnology Engineering student and Machine Learning enthusiast who is currently looking for an internship position in a Tech company.</h3>
+<h3 align="center">Nanotechnology, Computational Materials Science & Machine Learning enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturo-garciacortes&label=Profile%20views&color=0e75b6&style=flat" alt="arturo-garciacortes" /> </p>
 
-- 🌱 I’m currently pursuing a **Machine Learning Specialization**
-
-- 👨‍💻 All of my projects are available at [portfolio_link](portfolio_link)
-
-- 📫 How to reach me **garciacortesjosearturo@gmail.com**
+<h2>Description</h2>
+Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<br />
 
 - Look at the extent of my background and achievements: [Resume](https://drive.google.com/file/d/1bYceDv2CthXfba-DEguDjt0kyCi-_FYu/view?usp=sharing)
+
+- 📫 How to reach me **garciacortesjosearturo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
