@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **garciacortesjosearturo@gmail.com**
 
-- Look at the extent of my background and achievements. [Resume](https://drive.google.com/file/d/1bYceDv2CthXfba-DEguDjt0kyCi-_FYu/view?usp=sharing)
+- Look at the extent of my background and achievements: [Resume](https://drive.google.com/file/d/1bYceDv2CthXfba-DEguDjt0kyCi-_FYu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
