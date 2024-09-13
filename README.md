@@ -33,7 +33,6 @@
 📄 Look at the extent of my background and achievements: [Curriculum Vitae](https://drive.google.com/file/d/1bYceDv2CthXfba-DEguDjt0kyCi-_FYu/view?usp=sharing)
 
 <h2>🌎 Connect with me</h2>
-<br />
 
 📫 Reach me at: garciacortesjosearturo@gmail.com
 
