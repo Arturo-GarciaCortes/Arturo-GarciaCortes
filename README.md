@@ -1,4 +1,4 @@
-<h1 align="center">Hi all 👋, this is Arturo Garcia</h1>
+<h1 align="center">Hi, I'm Arturo Garcia 👋</h1>
 <h3 align="center">I am a highly motivated Nanotechnology Engineering student and Machine Learning enthusiast who is currently looking for an internship position in a Tech company.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturo-garciacortes&label=Profile%20views&color=0e75b6&style=flat" alt="arturo-garciacortes" /> </p>
