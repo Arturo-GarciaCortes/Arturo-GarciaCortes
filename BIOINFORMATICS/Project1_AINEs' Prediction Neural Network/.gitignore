@@ -1,5 +1,0 @@
-#Ignore all .csv, .h5 and .mol2 files
-
-*.csv
-*.h5
-*.mol2
