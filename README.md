@@ -7,12 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturo-garciacortes&label=Profile%20views&color=0e75b6&style=flat" alt="arturo-garciacortes" /> </p>
 
 <h2>💻 Computational Materials Science Projects</h2>
-<br />
 
 - [Project of](URL)
 
 <h2>💻 Bioinformatics Projects</h2>
-<br />
 
 - [Project of](URL)
 
