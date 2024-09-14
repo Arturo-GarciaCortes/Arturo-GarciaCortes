@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jose Arturo Garcia 👋</h1>
+<h1 align="center">Hi, I'm Arturo Garcia 👋</h1>
 <h3 align="left">Nanotechnology engineer with focus on Computational Materials Science & Machine Learning.</h3>
 
 <h3 align="left">Skilled in:</h3>
