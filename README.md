@@ -9,7 +9,7 @@
 <h2>💻 Computational Materials Science Projects</h2>
 
 - [Predicting Silver Nanoparticles Size Using Machine Learning Algorithms and Neural Networks](https://github.com/Arturo-GarciaCortes/Ag-Nanoparticles-Size-Prediction-with-Machine-Learning.git)
-
+- [Automatizing Quantum ESPRESSO Installation and Compilation with Libxc enabling Parallel Excecution](https://github.com/Arturo-GarciaCortes/Automatizing-Quantum-ESPRESSO-installation-and-configuration-enabling-parallel-excecution-and-Libxc.git)
 
 <h2>🎓 Courses & Certifications</h2>
 
