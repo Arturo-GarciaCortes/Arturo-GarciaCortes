@@ -10,6 +10,8 @@
 
 - [Predicting Silver Nanoparticles Size Using Machine Learning Algorithms and Neural Networks in Python](https://github.com/Arturo-GarciaCortes/Ag-Nanoparticles-Size-Prediction-with-Machine-Learning.git)
   
+- [Quantum ESPRESSO Input File Generator from Various Format Options](https://github.com/Arturo-GarciaCortes/Quantum-ESPRESSO-input-file-generator-from-cif-xyz-vasp-and-sdf-formats.git)
+  
 - [Automatizing Quantum ESPRESSO Installation and Compilation with Libxc enabling Parallel Execution using Python3](https://github.com/Arturo-GarciaCortes/Automatizing-Quantum-ESPRESSO-installation-and-configuration-enabling-parallel-excecution-and-Libxc.git)
 
 <h2>🎓 Courses & Certifications</h2>
