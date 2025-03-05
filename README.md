@@ -14,6 +14,8 @@
   
 - [Automatizing Quantum ESPRESSO Installation and Compilation with Libxc enabling Parallel Execution using Python3](https://github.com/Arturo-GarciaCortes/Automatizing-Quantum-ESPRESSO-installation-and-configuration-enabling-parallel-excecution-and-Libxc.git)
 
+- [More useful scripts for materials modeling using Quantum ESPRESSO]()
+
 <h2>🎓 Courses & Certifications</h2>
 
 - [Quantum MultiScale School by Boise State University](http://www.quantum-multiscale.org/q-ms-school-2024-program.html)
