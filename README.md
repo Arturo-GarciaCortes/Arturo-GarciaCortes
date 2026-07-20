@@ -42,18 +42,18 @@
         </a>
       </td>
             <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
-        <a href="https://ase-lib.org/">
+        <a href="https://www.tensorflow.org/">
           <br/>
-          <img src="./ase256.png" alt="Atomistic Simulation Environment" height="65" style="border-radius: 6px;" />
+          <img src="./TF.png" alt="Tensorflow" height="65" style="border-radius: 6px;" />
           <br/><br/>
-          <font color="#FFFFFF"><b>Atomistic Simulation Environment</b></font>
+          <font color="#FFFFFF"><b>Tensorflow</b></font>
           <br/><br/>
         </a>
       </td>
       <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
         <a href="https://scikit-learn.org/stable/">
           <br/>
-          <img src="./xcrysden.jpg" alt="Scikit-learn" height="65" style="border-radius: 6px;" />
+          <img src="scikitlearn.png" alt="Scikit-learn" height="65" style="border-radius: 6px;" />
           <br/><br/>
           <font color="#FFFFFF"><b>Scikit-learn</b></font>
           <br/><br/>
