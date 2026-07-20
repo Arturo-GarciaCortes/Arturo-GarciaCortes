@@ -87,7 +87,7 @@
       <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
         <a href="https://jupyter.org/">
           <br/>
-          <img src="./ase256.png" alt="Jupyter Lab/Notebooks" height="65" style="border-radius: 6px;" />
+          <img src="Jupyter_logo.svg.webp" alt="Jupyter Lab/Notebooks" height="65" style="border-radius: 6px;" />
           <br/><br/>
           <font color="#FFFFFF"><b>Jupyter Lab/Notebooks</b></font>
           <br/><br/>
