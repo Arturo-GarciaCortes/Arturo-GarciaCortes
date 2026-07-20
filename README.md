@@ -1,5 +1,5 @@
 <h1 align="center">Jose Arturo Garcia Cortes 👋</h1>
-<align="left"> Hi! My name is Jose Garcia and I'm a second year PhD student in the <a href="https://graeve.ucsd.edu/">Xtreme Materials Laboratory</a> at Univeristy of California San Diego. My research primarily focuses on the effects of rare-earth-doping on the structure and electronic properties of bioceramics. As a secondary-project, I investigate the Li-adsoprtion mechanism and Li-doping effects on two-dimensional metal hexaborides. My work integrates High-Performance Computing, Quantum Chemistry and Machine Learning methods to understand, design and optimize materials that serve in biomedical, neutron-detection and energy applications.
+<align="left"> Hi! My name is Jose and I'm a second year PhD student in the <a href="https://graeve.ucsd.edu/">Xtreme Materials Laboratory</a> at Univeristy of California San Diego. My research primarily focuses on the effects of rare-earth-doping on the structure and electronic properties of bioceramics. As a secondary-project, I investigate the Li-adsoprtion mechanism and Li-doping effects on two-dimensional metal hexaborides. My work integrates High-Performance Computing, Quantum Chemistry and Machine Learning methods to understand, design and optimize materials that serve in biomedical, neutron-detection and energy applications.
 
 <h3 align="left">Skilled in:</h3>
 
