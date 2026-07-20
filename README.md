@@ -96,7 +96,7 @@
     </tr>
   </table>
 
-<h2>💻 Computational Materials Science Projects</h2>
+<h2>💻 Projects</h2>
 
 - [Predicting Silver Nanoparticles Size Using Machine Learning Algorithms and Neural Networks in Python](https://github.com/Arturo-GarciaCortes/Ag-Nanoparticles-Size-Prediction-with-Machine-Learning.git)
   
