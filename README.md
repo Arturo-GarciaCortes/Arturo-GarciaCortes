@@ -122,8 +122,6 @@
 
 - [Introduction to the 5 generations of Nanotechnology by Instituto de Nanotecnologia Aplicada](https://drive.google.com/file/d/1PYfPHUZ5kdYfUropNCbftOZUmelv38QZ/view?usp=sharing)
 
-📄 Look at the extent of my background and achievements: [Curriculum Vitae](https://drive.google.com/file/d/1HiAMa4oiPp1z2bXPGnwee2KfQ1QTN9OC/view?usp=sharing)
-
 <h2>🌎 Connect with me</h2>
 
 📫 Reach me at: garciacortesjosearturo@gmail.com
