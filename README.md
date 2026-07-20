@@ -3,13 +3,37 @@
 
 <h3 align="left">Skills & tools:</h3>
 
-<h3 align="center"></h3>
-  <a href="https://www.quantum-espresso.org/" target="_blank" rel="noreferrer">
-    <img src="images/quantum-espresso.png"
-         alt="Quantum ESPRESSO"
-         title="Quantum ESPRESSO"
-         width="60" height="40"/>
-  </a>
+  <table>
+    <tr align="center">
+      <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
+        <a href="https://www.quantum-espresso.org/">
+          <br/>
+          <img src="https://github.com/picortesdiaz/picortesdiaz/blob/41bbbe285d994502983b8b732eefa5b39cdf01ac/QE.png" alt="Quantum ESPRESSO" height="65" style="border-radius: 6px;" />
+          <br/><br/>
+          <font color="#FFFFFF"><b>Quantum ESPRESSO</b></font>
+          <br/><br/>
+        </a>
+      </td>
+      <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
+        <a href="https://jp-minerals.org/vesta/en/">
+          <br/>
+          <img src="https://github.com/picortesdiaz/picortesdiaz/blob/41bbbe285d994502983b8b732eefa5b39cdf01ac/Vesta.jpeg" alt="VESTA" height="65" style="border-radius: 6px;" />
+          <br/><br/>
+          <font color="#FFFFFF"><b>VESTA</b></font>
+          <br/><br/>
+        </a>
+      </td>
+      <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
+        <a href="https://ase-lib.org/">
+          <br/>
+          <img src="ht" alt="Atomistic Simulation Environment" height="65" style="border-radius: 6px;" />
+          <br/><br/>
+          <font color="#FFFFFF"><b>VESTA</b></font>
+          <br/><br/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
 <h3 align="left">Programming & Scripting:</h3>
 
