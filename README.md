@@ -1,10 +1,25 @@
 <h1 align="center">Jose Arturo Garcia Cortes 👋</h1>
 <align="left"> Hi! My name is Jose and I'm a second year PhD student in the <a href="https://graeve.ucsd.edu/">Xtreme Materials Laboratory</a> at Univeristy of California San Diego. My research primarily focuses on the effects of rare-earth-doping on the structure and electronic properties of bioceramics. As a secondary-project, I investigate the Li-adsoprtion mechanism and Li-doping effects on two-dimensional metal hexaborides. My work integrates High-Performance Computing, Quantum Chemistry and Machine Learning methods to understand, design and optimize materials that serve in biomedical, neutron-detection and energy applications.
 
-<h3 align="left">Skilled in:</h3>
+<h3 align="left">Skills & tools:</h3>
 
 <h3 align="center"></h3>
-<p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="http://www.quantum-espresso.org/" target="_blank" rel="noreferrer"> <img src="https://www.quantum-espresso.org/wp-content/uploads/2022/03/quantum_ogo_ok.png" alt="QuantumEspresso" width="60" height="40"/> </a> <a href="https://lammpstube.com/2019/11/09/gaussview-software/" target="_blank" rel="noreferrer"> <img src="https://lammpstube.com/wp-content/uploads/2019/11/Gaussview-logo-1-3.jpg" alt="GaussView" width="70" height="50"/> </a> <a href="https://jp-minerals.org/vesta/en/" target="_blank" rel="noreferrer"> <img src="https://ma.issp.u-tokyo.ac.jp/wp-content/uploads/sites/3/2018/02/image_mini-2-3.png" alt="Vesta" width="40" height="40"/> </a> </p>
+  <a href="https://www.quantum-espresso.org/" target="_blank" rel="noreferrer">
+    <img src="images/quantum-espresso.png"
+         alt="Quantum ESPRESSO"
+         title="Quantum ESPRESSO"
+         width="60" height="40"/>
+  </a>
+
+<h3 align="left">Programming & Scripting:</h3>
+
+<h3 align="center"></h3>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="images/quantum-espresso.png"
+         alt="Python"
+         title="Python"
+         width="60" height="40"/>
+  </a>
 
 <h2>💻 Computational Materials Science Projects</h2>
 
