@@ -64,13 +64,37 @@
 
 <h3 align="left">Programming & Scripting:</h3>
 
-<h3 align="center"></h3>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="images/quantum-espresso.png"
-         alt="Python"
-         title="Python"
-         width="60" height="40"/>
-  </a>
+  <table>
+    <tr align="center">
+      <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
+        <a href="https://www.python.org/">
+          <br/>
+          <img src="https://github.com/picortesdiaz/picortesdiaz/blob/41bbbe285d994502983b8b732eefa5b39cdf01ac/Python.webp" alt="Python" height="65" style="border-radius: 6px;" />
+          <br/><br/>
+          <font color="#FFFFFF"><b>Python</b></font>
+          <br/><br/>
+        </a>
+      </td>
+      <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
+        <a href="">
+          <br/>
+          <img src="https://github.com/picortesdiaz/picortesdiaz/blob/41bbbe285d994502983b8b732eefa5b39cdf01ac/bash.webp" alt="Bash" height="65" style="border-radius: 6px;" />
+          <br/><br/>
+          <font color="#FFFFFF"><b>Bash</b></font>
+          <br/><br/>
+        </a>
+      </td>
+      <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
+        <a href="https://jupyter.org/">
+          <br/>
+          <img src="./ase256.png" alt="Jupyter Lab/Notebooks" height="65" style="border-radius: 6px;" />
+          <br/><br/>
+          <font color="#FFFFFF"><b>Jupyter Lab/Notebooks</b></font>
+          <br/><br/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
 <h2>💻 Computational Materials Science Projects</h2>
 
